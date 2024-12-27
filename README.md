@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/864130ea-9ac0-429a-ab37-1921c0e47ad1
 # Weather App 🌦️
 
 A simple and interactive weather app built using **React** and **JavaScript**, featuring:
@@ -24,14 +26,24 @@ A simple and interactive weather app built using **React** and **JavaScript**, f
 
 ---
 
-## Preview
-
-![Weather App Screenshot](./WEATHER.png)
-
----
-
 ## How to Run the App
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/weather-app.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd weather-app
+3. Install the required dependencies:
+   ```bash
+   npm install
+4. Start deploy:
+   ```bash
+   npm start
+---
+
+## Preview
+-![WEATHER](https://github.com/user-attachments/assets/2e394440-1c0f-4c01-a27c-5fa363ce7e72)
+-Uploading Untitled video - Made with Clipchamp.mp4…
+
