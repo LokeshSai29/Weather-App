@@ -42,7 +42,7 @@ A simple and interactive weather app built using **React** and **JavaScript**, f
 ---
 
 ## Preview
--![WEATHER](https://github.com/user-attachments/assets/2e394440-1c0f-4c01-a27c-5fa363ce7e72)
+- ![WEATHER](https://github.com/user-attachments/assets/2e394440-1c0f-4c01-a27c-5fa363ce7e72)
 
--https://github.com/user-attachments/assets/864130ea-9ac0-429a-ab37-1921c0e47ad1
+- https://github.com/user-attachments/assets/864130ea-9ac0-429a-ab37-1921c0e47ad1
 
